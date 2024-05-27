@@ -82,7 +82,3 @@ def xx_onestep( A, d ):
 
     return Xhat
 
-
-
-
-
